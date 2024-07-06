@@ -1,4 +1,4 @@
-# Data analysis and visualization of IPO's of Indian stock market (2010-21)
+# Data analysis and visualization of IPO's listed on Indian Stock Market (2010-21)
 - Took past 12 years dataset of stocks listed on BSE, NSE from Kaggle.
 - Transformed the data and prepared it for further processing.
 - Conducted EDA on the dataset, created some data insights and examined it.
@@ -18,10 +18,10 @@
 - Listing_Gains(%)	
 - CMP (Current Market Price)
 
-- Investor Categories:
+- Investor Category:<br/>
 QIB	(Qualified Institutional Buyer): e.g. Financial Institutions, Banks etc. <br/>
-HNI	(High Net worth Individuals) - e.g. Investment more than 2 lakhs in that IPO. <br/>
-RII	(Retail Individual Investor) - e.g. Investment of less than 2 lakhs in the IPO. <br/>
+HNI	(High Net worth Individuals): e.g. Investment more than 2 lakhs in that IPO. <br/>
+RII	(Retail Individual Investor): e.g. Investment of less than 2 lakhs in the IPO. <br/>
 
 # Insights
 - Largest issue size of a stock named: One 97 (Paytm)
