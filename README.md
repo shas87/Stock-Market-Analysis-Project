@@ -1,7 +1,8 @@
 # Data analysis and visualization of IPO's listed on Indian Stock Market (2010-21)
-- Took past 12 years dataset of stocks listed on BSE, NSE from Kaggle.
-- Transformed the data and prepared it for further processing.
-- Conducted EDA on the dataset, created some data insights and examined it.
+- Analyzed stock market data to derive key insights and trends from stocks listed on BSE and NSE over the
+past 12 years.
+- Conducted EDA to identify patterns and trends in the stock market data, generated actionable insights
+and visualizations using Matplotlib and Seaborn libraries.
 
 # Libraries used: 
   Pandas, Matplotib, Seaborn
